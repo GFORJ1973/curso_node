@@ -16,4 +16,4 @@ console.log("O nome dele é %s", y);
 // limpando console
 setTimeout(() => {
   console.clear();
-}, 2000);
+}, 7000);

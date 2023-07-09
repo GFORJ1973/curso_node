@@ -10,6 +10,6 @@
   "author": "Matheus",
   "license": "ISC",
   "dependencies": {
-    "minimist": "^1.2.5"
+    "minimist": "^1.2.8"
   }
 }
